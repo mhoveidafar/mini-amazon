@@ -1,0 +1,20 @@
+.TimeoutModal {
+    position: absolute;
+    width: 470px;
+    height: 180px;
+    top: 50%;
+    left: 50%;
+    padding: 1rem;
+    transform: translate(-50%, -50%);
+
+    .button {
+        background: #8ab0d1;
+        background: linear-gradient(180deg, #8ab0d1 0%, #487dac 100%);
+        color: white;    
+    }
+
+    .btnGroup {
+        display: flex;
+        justify-content: space-between;
+    }
+}

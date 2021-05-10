@@ -1,3 +1,6 @@
+Managing states in React using Redux. user can add items and increase and decrease the the item count and the total count of all items will be updated at the same time.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
